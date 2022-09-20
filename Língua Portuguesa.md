@@ -1,0 +1,2 @@
+# Frase
+ A frase é sempre acompanhada de uma melodia, de uma entoação. Nas frases organizadas com verbo, a entoação caracteriza o fim do enunciado, geralmente seguido de forte pausa. É o caso destes exemplos:
