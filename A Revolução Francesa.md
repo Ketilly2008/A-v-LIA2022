@@ -1,6 +1,6 @@
 ---
 created: 2022-09-21T07:57:23-03:00
-modified: 2022-09-21T23:35:49-03:00
+modified: 2022-09-21T23:48:03-03:00
 ---
 
 # A Revolução Francesa
@@ -48,6 +48,8 @@ modified: 2022-09-21T23:35:49-03:00
 
 →O __gasto com guerras__ pesou no economia do poís. A França participou da Guerra da __Independência dos Estados Unidos__ e perdeu a __Guerra dos Sete Anos__, contra a Inglaterra.
 
-→
+→Politicamente, o reinado de Luís XVI caracterizava uma monarquia absolutista (poder ilimitado e de origem divina).
 
-→
+→Além disso, o __quadro econômico na França era péssimo__ e a fome ameaçava a população. Secas prejudicavam a agricultura e acentuavam a miséria. Havia escassez de alimentos, o que aumentava ainda mais a revolta da população.
+
+→A __divisão da sociedade francesa__ também pode ser considerada causa da revolução, pois não havia mobilidade e a posição social dependia do nascimento.
