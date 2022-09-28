@@ -1,6 +1,6 @@
 ---
 created: 2022-09-21T07:57:23-03:00
-modified: 2022-09-21T23:48:03-03:00
+modified: 2022-09-28T08:14:31-03:00
 ---
 
 # A Revolução Francesa
@@ -33,6 +33,9 @@ modified: 2022-09-21T23:48:03-03:00
 →Representa o momento em a burguesia, já detentora do poder econômico, atinge o  PODER POLÍTICO.
 
 
+![Image](./a9a282e2158d0c846509f61ae589d196.jpg) 
+
+
 ---
 
 
@@ -53,3 +56,19 @@ modified: 2022-09-21T23:48:03-03:00
 →Além disso, o __quadro econômico na França era péssimo__ e a fome ameaçava a população. Secas prejudicavam a agricultura e acentuavam a miséria. Havia escassez de alimentos, o que aumentava ainda mais a revolta da população.
 
 →A __divisão da sociedade francesa__ também pode ser considerada causa da revolução, pois não havia mobilidade e a posição social dependia do nascimento.
+
+
+
+
+---
+
+
+__sociedade estamental;__
+
+
+---
+
+A sociedade estamental é caracterizada por ser uma sociedade em que o nascimento é determinado para a atribuição do status social. O status social é reativo ao estamento, ao segmento da sociedade, em que a pessoa nasce, portanto,  a mobilidade social é bastante baixa nesse modelo de sociedade.
+
+
+![Image](./94b5d6bed6c2a9935636e62c6a292281.jpg)
