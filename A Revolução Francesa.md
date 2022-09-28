@@ -1,6 +1,6 @@
 ---
 created: 2022-09-21T07:57:23-03:00
-modified: 2022-09-28T08:14:31-03:00
+modified: 2022-09-28T14:14:17-03:00
 ---
 
 # A Revolução Francesa
@@ -96,7 +96,7 @@ No dia 14 de julho, então, houve a Queda da Bastilha, em que a população fran
 
 
 
-• __Iluminismo__
+__•Iluminismo__
 
 ---
 
@@ -148,7 +148,7 @@ A burguesia francesa, temendo esse ímpeto popular, resolveu tomar decisões que
 ![Image](./75fd9e903c18b185a12ed761557e21ad.jpg) 
 
 
-No dia 4 de agosto de 1789, os parlamentares da Assembleia Constituinte aboliram os privilégios oriundos do Antigo Regime da França.
+```No dia 4 de agosto de 1789, os parlamentares da Assembleia Constituinte aboliram os privilégios oriundos do Antigo Regime da França.```
 
 Esse foi um dos documentos mais importantes da Revolução Francesa e, na teoria, decretava que todos os seres humanos eram iguais perante a lei. No entanto, é importante considerar que essa ideia de igualdade, para os liberais do século XVIII, estendia-se apenas ao âmbito jurídico e não alcançava uma dimensão democratizante como o nome do documento pode sugerir.
 
@@ -194,3 +194,71 @@ O período em que os jacobinos, sob a liderança de Maximilien Robespierre, esti
 
 
 ![Image](./333698e9a5461e3eb48f6a5c10ddc31c.jpg)
+
+``` Maximilien Robespierre foi o líder dos jacobinos durante a fase da revolução conhecida como Terror.*```
+
+
+Apesar da radicalidade, os jacobinos conseguiram resolver problemas imediatos da França, pois estabilizaram o valor da moeda francesa, aumentaram o exército francês gastando menos, conseguiram derrotar as tropas que tinham invadido a França e conseguiram estabilizar a situação das rebeliões pelo país.
+
+De toda forma, essa atuação radical dos jacobinos gerou uma natural reação dos grupos conservadores da França. Assim, os girondinos conspiraram e articularam, com o apoio da alta burguesia da França, um golpe contra os jacobinos conhecido como Reação Termidoriana e que aconteceu em 1794. Com esse golpe contra os jacobinos, muitas medidas tomadas por eles foram revertidas, e a liderança jacobina (incluindo Robespierre) foi sumariamente guilhotinada.
+
+Acesse também: Saiba como funcionava o calendário revolucionário francês
+
+
+
+__•Diretório__
+
+
+---
+
+
+O Diretório substituiu a Convenção em 1795 durante um período em que a revolução esteve nas mãos dos girondinos e da alta burguesia francesa. As medidas mais radicais tomadas pelos jacobinos foram revogadas, inclusive retorno do voto censitário. Nesse momento, os girondinos usaram frequentemente da força para conter o povo e resistiram a inúmeras tentativas de golpes.
+
+A situação da França permaneceu instável e isso fez com que a alta burguesia francesa visse no autoritarismo uma esperança para resolver a situação da França. A população estava insatisfeita, a economia estava ruim, e a guerra continuava a ameaçar o país, então a ditadura foi vista como solução.
+
+A imagem de uma figura forte e autoritária surgiu como possibilidade de resolução dos problemas franceses e disso nasceu o apoio a Napoleão Bonaparte, general do exército francês que liderava as tropas francesas contra as coalizões internacionais. Com isso, Napoleão organizou um golpe e tomou o poder em um evento conhecido como Golpe do 18 de Brumário, que aconteceu em 1799.
+
+
+---
+
+## __Consequências__
+
+---
+
+
+
+
+A Revolução Francesa estendeu-se por dez anos e, nesse período, uma série de transformações aconteceu naquele país. As transformações trazidas pela Revolução Francesa, porém, não se mantiveram apenas na França e espalharam-se pelo mundo. Elas foram:
+
+• Fim dos privilégios da aristocracia (nobreza e clero) na França;
+
+
+• Fim dos resquícios do feudalismo e início da consolidação do capitalismo;
+
+• Queda do absolutismo em toda a Europa;
+
+• Inspirou os movimentos de independência na América, sobretudo das nações colonizadas pela Espanha;
+
+• Popularizou a república como forma de governo;
+
+
+• Popularizou a ideia de separação dos poderes;
+
+
+• Garantiu a aplicação dos ideais liberais de liberdade individual do lema “todos os homens são iguais perante a lei”;
+
+• Consolidou o nacionalismo enquanto ideologia de reconhecimento do dever patriótico.
+
+
+
+
+---
+
+## __MAPA MENTAL__
+
+---
+
+
+![Image](./d428d8a46d72ea12d4de61af2cc805ba.jpg) 
+
+```MAPA MENTAL SOBRE REVOLUÇÃO FRANCESA - STUDY MAPS```
